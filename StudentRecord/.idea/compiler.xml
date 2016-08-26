@@ -18,5 +18,10 @@
         <processorPath useClasspath="true" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="StudentRecord_integrationTest" target="1.8" />
+      <module name="StudentRecord_main" target="1.8" />
+      <module name="StudentRecord_test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

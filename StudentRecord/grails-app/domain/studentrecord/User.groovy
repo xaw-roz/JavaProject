@@ -1,11 +1,13 @@
 package studentrecord
 
 class User {
-    String email_id;
-    String password_hash;
 
+    String userName;
+    String password;
+    String role
     static constraints = {
-        email_id email: true,blank: false
-        password_hash blank: false
+        userName blank: false
+        password blank: false
+        role blank: false
     }
 }

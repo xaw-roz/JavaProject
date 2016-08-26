@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StudentRecord.iml" filepath="$PROJECT_DIR$/StudentRecord.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StudentRecord-grailsPlugins.iml" filepath="$PROJECT_DIR$/StudentRecord-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StudentRecord.iml" filepath="$PROJECT_DIR$/.idea/modules/StudentRecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StudentRecord_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/StudentRecord_integrationTest.iml" group="StudentRecord" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StudentRecord_main.iml" filepath="$PROJECT_DIR$/.idea/modules/StudentRecord_main.iml" group="StudentRecord" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StudentRecord_test.iml" filepath="$PROJECT_DIR$/.idea/modules/StudentRecord_test.iml" group="StudentRecord" />
     </modules>
   </component>
 </project>
